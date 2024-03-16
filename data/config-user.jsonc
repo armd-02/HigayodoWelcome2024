@@ -20,12 +20,12 @@
         ],
         "initZoom": 14.45,
         "maxZoom": 23,
-        "modalZoom": 19 // モーダルダイアログ表示時のズームサイズ   
+        "modalZoom": 18 // モーダルダイアログ表示時のズームサイズ   
     },
     "view": {
         "poiZoom": {
             // アイコンの前後位置は後ろの方が手前になる
-            "stores": 17,
+            "stores": 19,
             "activity": 7
         },
         "poiFilter": "filter" // listTable更新時 all:全て / filter:絞り込み / "":非連動
