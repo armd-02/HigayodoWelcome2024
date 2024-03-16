@@ -1,0 +1,22 @@
+{
+    "osm": {
+        "stores": {
+            "overpass": [
+                "nwr[\"amenity\"]",
+                "nwr[\"shop\"]"
+            ],
+            "tags": [
+                "amenity",
+                "shop"
+            ],
+            "expression": {
+                "stroke": "#c0c0c0",
+                "stroke-width": 1
+            },
+            "titles": [
+                "name",
+                "operator"
+            ]
+        }
+    }
+}

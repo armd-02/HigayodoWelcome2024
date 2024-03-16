@@ -1,0 +1,80 @@
+{
+    "activities": {
+        "Welcome2024": {
+            "header": "",
+            "footer": "",
+            "form": {
+                "title": {
+                    "glot": "title",
+                    "type": "text",
+                    "gsheet": "title"
+                },
+                "event": {
+                    "glot": "event",
+                    "type": "textarea",
+                    "gsheet": "event"
+                },
+                "about": {
+                    "glot": "about2",
+                    "type": "textarea",
+                    "gsheet": "about"
+                },
+                "hours": {
+                    "glot": "hours",
+                    "type": "text",
+                    "gsheet": "hours"
+                },
+                "holidays": {
+                    "glot": "holidays",
+                    "type": "textarea",
+                    "gsheet": "holidays"
+                },
+                "fee": {
+                    "glot": "fee",
+                    "type": "text",
+                    "gsheet": "fee"
+                },
+                "reserve": {
+                    "glot": "reserve",
+                    "type": "textarea",
+                    "gsheet": "reserve"
+                },
+                "sdgs_no": {
+                    "glot": "sdgs_no",
+                    "type": "textarea",
+                    "gsheet": "sdgs_no"
+                },
+                "sdgs_comment": {
+                    "glot": "sdgs_comment",
+                    "type": "textarea",
+                    "gsheet": "sdgs_comment"
+                },
+                "recommend": {
+                    "glot": "recommend",
+                    "type": "textarea",
+                    "gsheet": "recommend"
+                },
+                "detail_url": {
+                    "glot": "detail_url",
+                    "type": "url",
+                    "gsheet": "detail_url"
+                },
+                "picture_url1": {
+                    "glot": "picture_url1",
+                    "type": "image_url",
+                    "gsheet": "picture_url1"
+                },
+                "picture_url2": {
+                    "glot": "picture_url2",
+                    "type": "image_url",
+                    "gsheet": "picture_url2"
+                },
+                "picture_url3": {
+                    "glot": "picture_url3",
+                    "type": "image_url",
+                    "gsheet": "picture_url3"
+                }
+            }
+        }
+    }
+}

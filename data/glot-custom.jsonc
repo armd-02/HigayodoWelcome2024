@@ -1,0 +1,90 @@
+{
+	"site_title": {
+		"ja": "東淀川区新歓祭マップ2024",
+		"en": "Higashiyodogawaku Welcome Event Map 2024"
+	},
+	"site_subtitle": {
+		"ja": "Powered by Community Map Maker",
+		"en": "Powered by Community Map Maker"
+	},
+	"about": {
+		"ja": "東淀川区新歓祭マップ2024について",
+		"en": "about Higashiyodogawaku Welcome Event Map 2024"
+	},
+	"about_message": {
+		"ja": "",
+		"en": ""
+	},
+	"owner": {
+		"ja": "コミュニティマップメーカー開発サイト",
+		"en": "Community Map Maker development site"
+	},
+	"licence_title": {
+		"ja": "利用規約",
+		"en": "Terms of Use"
+	},
+	"licence_message": {
+		"ja": "東淀川区新歓祭マップ2024のデータはOpenStreetMapと独自データを組み合わせています。",
+		"en": "The data of Higashiyodogawaku Welcome Event Map 2024 is a combination of OpenStreetMap and original."
+	},
+	"more_message": {
+		"ja": "",
+		"en": ""
+	},
+	"title": {
+		"ja": "【施設名】",
+		"en": "[Title]"
+	},
+	"event": {
+		"ja": "【内容】",
+		"en": "[event]"
+	},
+	"about2":{
+		"ja": "【紹介】",
+		"en": "[about]"
+	},
+	"hours": {
+		"ja": "【時間】",
+		"en": "[Hours]"
+	},
+	"holidays": {
+		"ja": "【休日】",
+		"en": "[Holidays]"
+	},
+	"fee": {
+		"ja": "【料金】",
+		"en": "[Fee]"
+	},
+	"reserve": {
+		"ja": "【予約方法】",
+		"en": "[Reserve]"
+	},
+	"sdgs_no": {
+		"ja": "【SDGS目標番号】",
+		"en": "[SDGS No]"
+	},
+	"sdgs_comment": {
+		"ja": "【SDGS取り組み】",
+		"en": "[SDGS Comment]"
+	},
+	"recommend": {
+		"ja": "【おすすめなど】",
+		"en": "[Recommend]"
+	},
+	"detail_url": {
+		"ja": "【詳細URL】",
+		"en": "[Detail URL]"
+	},
+	"picture_url1": {
+		"ja": "【写真URL1】",
+		"en": "[Picture URL1]"
+	},
+	"picture_url2": {
+		"ja": "【写真URL2】",
+		"en": "[Picture URL2]"
+	},
+	"picture_url3": {
+		"ja": "【写真URL3】",
+		"en": "[Picture URL3]"
+	}
+}
