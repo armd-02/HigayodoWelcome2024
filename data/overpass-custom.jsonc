@@ -6,14 +6,16 @@
                 "nwr[\"shop\"]",
                 "nwr[\"railway\"=\"station\"]",
                 "nwr[\"leisure\"]",
-                "nwr[\"craft\"]"
+                "nwr[\"craft\"]",
+                "nwr[\"office\"]"
             ],
             "tags": [
                 "amenity",
                 "shop",
                 "railway",
                 "leisure",
-                "craft"
+                "craft",
+                "office"
             ],
             "expression": {
                 "stroke": "#c0c0c0",
