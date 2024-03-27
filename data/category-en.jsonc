@@ -82,6 +82,7 @@
         },
         "building": {
             "apartments": "apartments",
+            "detached": "detached",
             "museum": "museum",
             "office": "office",
             "public": "public",

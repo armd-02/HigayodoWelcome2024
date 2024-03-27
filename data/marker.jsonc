@@ -82,6 +82,7 @@
             },
             "building": {
                 "apartments": "home.svg",
+                "detached": "home.svg",
                 "museum": "museum.svg",
                 "office": "town_hall.svg",
                 "public": "home.svg",

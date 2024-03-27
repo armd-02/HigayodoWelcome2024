@@ -82,6 +82,7 @@
         },
         "building": {
             "apartments": "アパート",
+            "detached": "一戸建て",
             "museum": "博物館",
             "office": "事務所",
             "public": "公共建築",
