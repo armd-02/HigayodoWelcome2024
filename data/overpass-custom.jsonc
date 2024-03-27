@@ -3,11 +3,13 @@
         "stores": {
             "overpass": [
                 "nwr[\"amenity\"]",
-                "nwr[\"shop\"]"
+                "nwr[\"shop\"]",
+                "nwr[\"railway\"=\"station\"]"
             ],
             "tags": [
                 "amenity",
-                "shop"
+                "shop",
+                "railway"
             ],
             "expression": {
                 "stroke": "#c0c0c0",

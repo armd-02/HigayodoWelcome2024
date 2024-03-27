@@ -59,9 +59,9 @@
 		"ja": "【予約方法】",
 		"en": "[Reserve]"
 	},
-	"sdgs_no": {
-		"ja": "【SDGS目標番号】",
-		"en": "[SDGS No]"
+	"tel": {
+		"ja": "【電話番号】",
+		"en": "[tel]"
 	},
 	"sdgs_comment": {
 		"ja": "【SDGS取り組み】",
