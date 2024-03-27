@@ -291,6 +291,7 @@
         },
         "leisure": {
             "amusement_arcade": "amusement arcade",
+            "dance":"dance",
             "garden": "garden",
             "pitch": "pitch",
             "park": "park",

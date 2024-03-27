@@ -306,6 +306,7 @@
             },
             "leisure": {
                 "amusement_arcade": "gaming.svg",
+                "dance":"music.svg",
                 "garden": "garden-centre.svg",
                 "pitch": "pitch.svg",
                 "park": "tree_and_bench.svg",
