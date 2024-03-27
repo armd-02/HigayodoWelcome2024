@@ -5,7 +5,7 @@
             "footer": "",
             "form": {
                 "title": {
-                    "glot": "title",
+                    "glot": "facility_name",
                     "type": "text",
                     "gsheet": "title"
                 },
@@ -26,7 +26,7 @@
                 },
                 "holidays": {
                     "glot": "holidays",
-                    "type": "textarea",
+                    "type": "text",
                     "gsheet": "holidays"
                 },
                 "fee": {
@@ -36,23 +36,13 @@
                 },
                 "reserve": {
                     "glot": "reserve",
-                    "type": "textarea",
+                    "type": "text",
                     "gsheet": "reserve"
-                },
-                "sdgs_no": {
-                    "glot": "sdgs_no",
-                    "type": "textarea",
-                    "gsheet": "sdgs_no"
                 },
                 "sdgs_comment": {
                     "glot": "sdgs_comment",
                     "type": "textarea",
                     "gsheet": "sdgs_comment"
-                },
-                "recommend": {
-                    "glot": "recommend",
-                    "type": "textarea",
-                    "gsheet": "recommend"
                 },
                 "detail_url": {
                     "glot": "detail_url",

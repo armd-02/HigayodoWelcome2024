@@ -31,9 +31,9 @@
 		"ja": "",
 		"en": ""
 	},
-	"title": {
+	"facility_name": {
 		"ja": "【施設名】",
-		"en": "[Title]"
+		"en": "[facility]"
 	},
 	"event": {
 		"ja": "【内容】",
