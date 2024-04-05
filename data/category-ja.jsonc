@@ -37,7 +37,7 @@
             "internet_cafe": "インターネットカフェ",
             "karaoke_box": "カラオケボックス",
             "kindergarten": "幼稚園",
-            "language_school":"語学学校",
+            "language_school": "語学学校",
             "library": "図書館",
             "nightclub": "クラブ/ライブハウス",
             "marketplace": "市場",
@@ -93,7 +93,9 @@
             "yes": "建物"
         },
         "craft": {
+            "carpenter": "工務店",
             "confectionery": "菓子工房",
+            "lighting": "照明工房",
             "photographer": "写真館"
         },
         "diplomatic": {
@@ -103,7 +105,9 @@
             "school": "廃校"
         },
         "office": {
-            "company": "company",
+            "company": "会社",
+            "estate_agent": "不動産屋",
+            "foundation": "財団・協会",
             "government": "政府機関"
         },
         "shop": {
@@ -219,7 +223,7 @@
             "horizontal_bar": "鉄棒",
             "ladder": "はしご",
             "map": "マップ",
-            "monkey_bars":"雲梯",
+            "monkey_bars": "雲梯",
             "mound": "円丘",
             "playhouse": "プレイハウス",
             "play_sculpture": "遊具彫刻",
@@ -294,7 +298,8 @@
         "leisure": {
             "amusement_arcade": "ゲームセンター",
             "garden": "庭",
-            "dance":"ダンスホール",
+            "dance": "ダンスホール",
+            "fitness_centre": "フィットネスセンター",
             "pitch": "グラウンド",
             "park": "公園",
             "playground": "児童公園",

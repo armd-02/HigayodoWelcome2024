@@ -87,23 +87,23 @@ window.addEventListener("DOMContentLoaded", function () {
 									let subparam = param.split('.');					// split child elements(.)
 									cMapMaker.viewDetail(subparam[0], subparam[1]);
 									break;
-							};
-						};
-					};
-					cMapMaker.addEvents();
-				});
+							}
+						}
+					}
+					cMapMaker.addEvents()
+				})
 			}
 
 			// Load gSheet's OSM Data
-			poiCont.setActdata(results[0]);		// gSheetをPoiContにセット
-			let osmids = poiCont.pois().acts.map(act => { return act.osmid });
-			osmids = osmids.filter(Boolean);
+			poiCont.setActdata(results[0])		// gSheetをPoiContにセット
+			let osmids = poiCont.pois().acts.map(act => { return act.osmid })
+			osmids = osmids.filter(Boolean)
 			if (osmids.length > 0 && !Conf.static.mode) {
 				OvPassCnt.getOsmIds(osmids).then(geojson => {
-					poiCont.add_geojson(geojson);
-					poiCont.setActlnglat();
-					init_close();
-				});
+					poiCont.add_geojson(geojson)
+					poiCont.setActlnglat()
+					init_close()
+				})
 			} else {
 				poiCont.setActlnglat()
 				init_close()

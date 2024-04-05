@@ -8,29 +8,24 @@
                     "hidden": true
                 },
                 {
-                    "id": "category",
-                    "name": "Category"
+                    "id": "title",
+                    "name": "title",
+                    "width": "50%"
                 },
                 {
-                    "id": "name",
-                    "name": "name"
-                },
-                {
-                    "id": "min_age",
-                    "name": "min age"
+                    "id": "event",
+                    "name": "event",
+                    "width": "50%"
                 }
             ],
             "poi_fields": [
                 "id",
-                "#category",
-                "#parent.name",
-                "min_age"
+                "#name"
             ],
             "act_fields": [
                 "id",
-                "#category",
-                "#name",
-                "#min_age"
+                "title",
+                "event"
             ]
         }
     }

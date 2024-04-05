@@ -1,0 +1,1056 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2024-04-05T16:26:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 538724639,
+  "lat": 34.7439950,
+  "lon": 135.5444780,
+  "timestamp": "2022-09-17T16:24:55Z",
+  "version": 10,
+  "changeset": 126305468,
+  "user": "keisim07",
+  "uid": 673405,
+  "tags": {
+    "int_name": "Daidō-Toyosato",
+    "name": "だいどう豊里",
+    "name:en": "Daido-Toyosato",
+    "name:ja": "だいどう豊里",
+    "name:ja_rm": "Daidō-Toyosato",
+    "name:ko": "다이도토요사토",
+    "operator": "大阪市高速電気軌道",
+    "operator:en": "Osaka Metro",
+    "platforms": "2",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "I13",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q180979",
+    "wikipedia": "ja:だいどう豊里駅"
+  }
+},
+{
+  "type": "node",
+  "id": 1633710204,
+  "lat": 34.7455322,
+  "lon": 135.5359268,
+  "timestamp": "2024-04-02T03:04:33Z",
+  "version": 3,
+  "changeset": 149459658,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "amenity": "community_centre",
+    "name": "豊新憩の家",
+    "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+    "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+    "social_facility": "group_home",
+    "source": "KSJ2",
+    "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2019523973,
+  "lat": 34.7587306,
+  "lon": 135.5504928,
+  "timestamp": "2024-03-27T10:53:07Z",
+  "version": 2,
+  "changeset": 149218865,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "name": "Ange Nakamura",
+    "shop": "confectionery",
+    "url": "http://www.ange-nakamura.jp/"
+  }
+},
+{
+  "type": "node",
+  "id": 2539711114,
+  "lat": 34.7404780,
+  "lon": 135.5299424,
+  "timestamp": "2023-09-21T14:30:24Z",
+  "version": 2,
+  "changeset": 141562583,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "pub",
+    "name": "小桜",
+    "source": "Bing; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3464834924,
+  "lat": 34.7492326,
+  "lon": 135.5341391,
+  "timestamp": "2024-04-02T02:01:26Z",
+  "version": 4,
+  "changeset": 149458651,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:twitter": "@steak_takeru_jp",
+    "cuisine": "steak_house",
+    "name": "まごころタケル食堂",
+    "opening_hours": "Mo-Su 11:30-15:00,18:00-22:00; Fr,Sa 11:30-15:00,18:00-22:30",
+    "opening_hours:covid19": "M-Sa 11:30-15:00, 17:00-20:00; PH off",
+    "takeaway:covid19": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4080358029,
+  "lat": 34.7502694,
+  "lon": 135.5330538,
+  "timestamp": "2023-06-10T11:06:59Z",
+  "version": 7,
+  "changeset": 137168027,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "KSJ2:LIN": "京都線",
+    "KSJ2:STN": "上新庄",
+    "name": "上新庄",
+    "name:de": "Kami-Shinjō",
+    "name:en": "Kami-Shinjō",
+    "name:ja": "上新庄",
+    "name:ja_kana": "かみしんじょう",
+    "name:ja_rm": "Kamishinjō",
+    "name:ko": "가미신조",
+    "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+    "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "KSJ2",
+    "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+    "url": "http://rail.hankyu.co.jp/station/kamishinjo.html",
+    "wikidata": "Q3969848",
+    "wikipedia": "ja:上新庄駅",
+    "wikipedia:ja": "上新庄駅"
+  }
+},
+{
+  "type": "node",
+  "id": 5224262622,
+  "lat": 34.7400757,
+  "lon": 135.5147222,
+  "timestamp": "2022-02-21T14:58:29Z",
+  "version": 3,
+  "changeset": 117685893,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "cafe",
+    "name": "珈琲トーホー"
+  }
+},
+{
+  "type": "node",
+  "id": 5423723323,
+  "lat": 34.7520448,
+  "lon": 135.5352544,
+  "timestamp": "2020-05-05T20:29:58Z",
+  "version": 3,
+  "changeset": 84716873,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "pub",
+    "contact:facebook": "https://www.facebook.com/%E5%91%B3%E5%B7%A5%E6%88%BF%E3%81%97%E3%81%B0%E3%81%BE%E3%82%93-1412640972337870/",
+    "name": "しばまん",
+    "name:en": "Shibaman",
+    "opening_hours": "17:30-22:30; Mo off",
+    "opening_hours:covid19": "17:00-20:00; Mo off",
+    "phone": "+81 6 6321 4696",
+    "takeaway:covid19": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6189804252,
+  "lat": 34.7408191,
+  "lon": 135.5198190,
+  "timestamp": "2020-04-30T19:00:34Z",
+  "version": 3,
+  "changeset": 84433572,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "name": "JR淡路",
+    "name:en": "JR-Awaji",
+    "name:ja": "JR淡路",
+    "operator": "西日本旅客鉄道",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "JR-F04",
+    "start_date": "2019-3-16",
+    "train": "yes",
+    "wikidata": "Q56346892",
+    "wikipedia": "ja:JR淡路駅"
+  }
+},
+{
+  "type": "node",
+  "id": 7425697910,
+  "lat": 34.7400334,
+  "lon": 135.5105872,
+  "timestamp": "2021-05-11T13:41:46Z",
+  "version": 2,
+  "changeset": 104516497,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "microbrewery": "yes",
+    "name": "上方ビール",
+    "opening_hours": "Sa-Su 12:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7463217151,
+  "lat": 34.7416208,
+  "lon": 135.5348057,
+  "timestamp": "2020-04-29T12:32:32Z",
+  "version": 1,
+  "changeset": 84339377,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "name": "東淀川工業協会",
+    "office": "foundation"
+  }
+},
+{
+  "type": "node",
+  "id": 7480351766,
+  "lat": 34.7491726,
+  "lon": 135.5434648,
+  "timestamp": "2020-05-04T13:50:57Z",
+  "version": 1,
+  "changeset": 84627924,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "fast_food",
+    "contact:instagram": "kirara0604",
+    "contact:twitter": "@kirara0604",
+    "cuisine": "japanese",
+    "name": "きらら",
+    "opening_hours": "11:00-18:00; Sa off; Su off",
+    "takeaway": "only"
+  }
+},
+{
+  "type": "node",
+  "id": 7482753157,
+  "lat": 34.7461213,
+  "lon": 135.5347165,
+  "timestamp": "2020-05-04T19:00:43Z",
+  "version": 1,
+  "changeset": 84643350,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "cafe",
+    "contact:website": "http://www.lohascafe2006.com/",
+    "name": "Lohas cafe",
+    "opening_hours": "09:00-18:00",
+    "opening_hours:covid19": "11:00-13:00",
+    "reservation:covid19": "recommended",
+    "takeaway:covid19": "only"
+  }
+},
+{
+  "type": "node",
+  "id": 7482753168,
+  "lat": 34.7475933,
+  "lon": 135.5410230,
+  "timestamp": "2020-05-04T19:00:43Z",
+  "version": 1,
+  "changeset": 84643350,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "大隅店",
+    "cuisine:ja": "たこ焼き",
+    "name": "たこ焼 たこば",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7482784970,
+  "lat": 34.7525629,
+  "lon": 135.5354812,
+  "timestamp": "2020-05-05T17:23:30Z",
+  "version": 2,
+  "changeset": 84710463,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:twitter": "@z9ShExEyNZvlERF",
+    "cuisine": "local",
+    "name": "笑いくじら",
+    "opening_hours": "Mo 17:00-23:00; Tu-Su 11:30-14:00, 17:00-23:00; Mo[1,3] off",
+    "opening_hours:covid19": "Tu-Su 13:00-19:00",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7658515980,
+  "lat": 34.7403465,
+  "lon": 135.5197752,
+  "timestamp": "2020-06-27T13:32:52Z",
+  "version": 1,
+  "changeset": 87226741,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "name": "パン工房 マサト",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 7922937033,
+  "lat": 34.7387303,
+  "lon": 135.5240198,
+  "timestamp": "2020-09-19T12:46:04Z",
+  "version": 1,
+  "changeset": 91149208,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "restaurant",
+    "delivery": "no",
+    "level": "0",
+    "name": "大衆食堂 サニーコメル",
+    "opening_hours": "Tu-Sa 11:00-14:00, 17:00-21:00; Su 11:00-18:00; Mo off",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8190960991,
+  "lat": 34.7402021,
+  "lon": 135.5147938,
+  "timestamp": "2022-02-21T14:58:29Z",
+  "version": 2,
+  "changeset": 117685893,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "cafe",
+    "name": "真心堂"
+  }
+},
+{
+  "type": "node",
+  "id": 8954330768,
+  "lat": 34.7400036,
+  "lon": 135.5137265,
+  "timestamp": "2021-07-27T14:18:23Z",
+  "version": 1,
+  "changeset": 108694403,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "social_facility",
+    "name": "SOMPOケア そんぽの家Ｓ淡路駅前",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior"
+  }
+},
+{
+  "type": "node",
+  "id": 9817343475,
+  "lat": 34.7502168,
+  "lon": 135.5340408,
+  "timestamp": "2023-08-14T03:50:15Z",
+  "version": 4,
+  "changeset": 139851118,
+  "user": "taki3hira",
+  "uid": 1948193,
+  "tags": {
+    "check_date": "2023-08-11",
+    "dance:teaching": "yes",
+    "email": "m.house1101@gmail.com",
+    "leisure": "dance",
+    "level": "1",
+    "name": "ミュージックハウスDJ"
+  }
+},
+{
+  "type": "node",
+  "id": 10170360111,
+  "lat": 34.7500350,
+  "lon": 135.5483921,
+  "timestamp": "2022-11-09T00:59:48Z",
+  "version": 1,
+  "changeset": 128662729,
+  "user": "zoneβ",
+  "uid": 17446529,
+  "tags": {
+    "craft": "confectionery",
+    "name": "丸赤製菓 糸田川商店"
+  }
+},
+{
+  "type": "node",
+  "id": 10202959436,
+  "lat": 34.7585671,
+  "lon": 135.5485395,
+  "timestamp": "2022-11-20T00:22:04Z",
+  "version": 1,
+  "changeset": 129141642,
+  "user": "zoneβ",
+  "uid": 17446529,
+  "tags": {
+    "amenity": "cafe",
+    "name": "chill out Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 10773052976,
+  "lat": 34.7409647,
+  "lon": 135.5122859,
+  "timestamp": "2024-04-02T07:35:08Z",
+  "version": 2,
+  "changeset": 149466164,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2023-03-30",
+    "cuisine": "curry",
+    "level": "0",
+    "name": "こころカレー食堂"
+  }
+},
+{
+  "type": "node",
+  "id": 10967703081,
+  "lat": 34.7476318,
+  "lon": 135.5337300,
+  "timestamp": "2024-03-24T04:17:20Z",
+  "version": 3,
+  "changeset": 149074584,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-03-17",
+    "cuisine": "chinese",
+    "name": "麺と音と餃子 -HAJIME-",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 11187559063,
+  "lat": 34.7408014,
+  "lon": 135.5098585,
+  "timestamp": "2023-09-13T15:46:32Z",
+  "version": 2,
+  "changeset": 141218054,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "check_date": "2023-09-13",
+    "craft": "lighting",
+    "level": "0",
+    "name": "照明塾"
+  }
+},
+{
+  "type": "node",
+  "id": 11207880116,
+  "lat": 34.7418544,
+  "lon": 135.5258122,
+  "timestamp": "2023-09-21T14:30:24Z",
+  "version": 1,
+  "changeset": 141562583,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "level": "0",
+    "name": "アースリード",
+    "office": "estate_agent"
+  }
+},
+{
+  "type": "node",
+  "id": 11736719281,
+  "lat": 34.7445097,
+  "lon": 135.5487236,
+  "timestamp": "2024-03-16T13:12:49Z",
+  "version": 1,
+  "changeset": 148731177,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "community_centre",
+    "name": "TCCO CRAFT FACTORY",
+    "opening_hours": "10:00-18:00; Tu off",
+    "operator": "TSUDA CONSTRUCTION COMPANY",
+    "operator:type": "business",
+    "website": "https://tcco-craft.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11738340134,
+  "lat": 34.7463841,
+  "lon": 135.5328825,
+  "timestamp": "2024-03-17T07:51:15Z",
+  "version": 1,
+  "changeset": 148760007,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "pub",
+    "check_date": "2024-03-17",
+    "name": "大人のホルモン"
+  }
+},
+{
+  "type": "node",
+  "id": 11738370675,
+  "lat": 34.7465787,
+  "lon": 135.5360033,
+  "timestamp": "2024-03-17T08:05:19Z",
+  "version": 1,
+  "changeset": 148760338,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "check_date": "2024-03-17",
+    "leisure": "fitness_centre",
+    "name": "Why not？"
+  }
+},
+{
+  "type": "node",
+  "id": 11738370679,
+  "lat": 34.7453615,
+  "lon": 135.5388050,
+  "timestamp": "2024-03-17T08:16:15Z",
+  "version": 1,
+  "changeset": 148760697,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "check_date": "2024-03-17",
+    "name": "ゆくい鍼灸整骨院",
+    "shop": "massage"
+  }
+},
+{
+  "type": "node",
+  "id": 11738380655,
+  "lat": 34.7442656,
+  "lon": 135.5387164,
+  "timestamp": "2024-03-17T08:26:59Z",
+  "version": 1,
+  "changeset": 148761024,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "check_date": "2024-03-17",
+    "craft": "carpenter",
+    "name": "山本博工務店"
+  }
+},
+{
+  "type": "node",
+  "id": 11738471894,
+  "lat": 34.7515621,
+  "lon": 135.5434722,
+  "timestamp": "2024-03-17T09:29:18Z",
+  "version": 1,
+  "changeset": 148763179,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-03-17",
+    "cuisine": "coffee_shop",
+    "name": "caffe 耕"
+  }
+},
+{
+  "type": "node",
+  "id": 11738513640,
+  "lat": 34.7492231,
+  "lon": 135.5395665,
+  "timestamp": "2024-04-02T03:09:08Z",
+  "version": 2,
+  "changeset": 149459713,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "check_date": "2024-03-17",
+    "name": "丸一米穀",
+    "shop": "rice"
+  }
+},
+{
+  "type": "node",
+  "id": 11765930909,
+  "lat": 34.7587505,
+  "lon": 135.5504212,
+  "timestamp": "2024-03-27T10:53:07Z",
+  "version": 1,
+  "changeset": 149218865,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "cafe",
+    "contact:instagram": "coffee_halo",
+    "name": "コーヒーハロ",
+    "name:en": "coffee halo",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11765959347,
+  "lat": 34.7490813,
+  "lon": 135.5286180,
+  "timestamp": "2024-03-27T11:09:59Z",
+  "version": 1,
+  "changeset": 149219619,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "social_facility",
+    "name": "学習支援教室こころん",
+    "website": "http://cocoron.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 11765975617,
+  "lat": 34.7529966,
+  "lon": 135.5328317,
+  "timestamp": "2024-03-27T11:13:24Z",
+  "version": 1,
+  "changeset": 149219764,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "name": "三協精器工業株式会社",
+    "office": "company",
+    "website": "http://www.sankyo-seiki.co.jp/"
+  }
+},
+{
+  "type": "node",
+  "id": 11765980658,
+  "lat": 34.7508920,
+  "lon": 135.5350651,
+  "timestamp": "2024-03-27T11:34:13Z",
+  "version": 1,
+  "changeset": 149220645,
+  "user": "ガンバロール",
+  "uid": 21213409,
+  "tags": {
+    "amenity": "language_school",
+    "check_date": "2024-03-27",
+    "name": "マック英会話教室"
+  }
+},
+{
+  "type": "node",
+  "id": 11766059482,
+  "lat": 34.7608525,
+  "lon": 135.5477849,
+  "timestamp": "2024-03-27T12:19:44Z",
+  "version": 1,
+  "changeset": 149222615,
+  "user": "ガンバロール",
+  "uid": 21213409,
+  "tags": {
+    "amenity": "social_facility",
+    "check_date": "2024-03-27",
+    "name": "井高野よってっ亭"
+  }
+},
+{
+  "type": "node",
+  "id": 11766121590,
+  "lat": 34.7442358,
+  "lon": 135.5525981,
+  "timestamp": "2024-03-27T12:38:15Z",
+  "version": 1,
+  "changeset": 149223527,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "craft": "carpenter",
+    "name": "山本博工務店 淀川作業場",
+    "website": "https://himawari-home.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11768452582,
+  "lat": 34.7468664,
+  "lon": 135.5253201,
+  "timestamp": "2024-04-02T01:50:53Z",
+  "version": 2,
+  "changeset": 149458455,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "addr:block_number": "４",
+    "addr:city": "大阪市東淀川区",
+    "addr:housenumber": "１",
+    "addr:neighbourhood": "下新庄六丁目",
+    "addr:postcode": "5330021",
+    "addr:province": "大阪府",
+    "amenity": "community_centre",
+    "name": "地域ふれあいサロンtette"
+  }
+},
+{
+  "type": "node",
+  "id": 11776531645,
+  "lat": 34.7433750,
+  "lon": 135.5220305,
+  "timestamp": "2024-04-01T01:16:56Z",
+  "version": 1,
+  "changeset": 149412773,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "amenity": "social_facility",
+    "name": "ネクストステージ　未来の里"
+  }
+},
+{
+  "type": "node",
+  "id": 11777098982,
+  "lat": 34.7414543,
+  "lon": 135.5251725,
+  "timestamp": "2024-04-01T01:08:18Z",
+  "version": 1,
+  "changeset": 149412661,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "amenity": "social_facility",
+    "name": "ミシン工房　道の空"
+  }
+},
+{
+  "type": "node",
+  "id": 11777485305,
+  "lat": 34.7518703,
+  "lon": 135.5357757,
+  "timestamp": "2024-04-01T04:25:03Z",
+  "version": 1,
+  "changeset": 149415347,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "name": "ヘアサロンamasaki",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11777647107,
+  "lat": 34.7490056,
+  "lon": 135.5349569,
+  "timestamp": "2024-04-01T05:28:05Z",
+  "version": 1,
+  "changeset": 149416419,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "amenity": "pub",
+    "name": "波平　上新庄店"
+  }
+},
+{
+  "type": "way",
+  "id": 273322284,
+  "timestamp": "2021-07-27T14:18:23Z",
+  "version": 4,
+  "changeset": 108694403,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "nodes": [
+    2781879585,
+    7453591297,
+    7453591298,
+    2781879587,
+    2781879589,
+    7453591299,
+    8954330754,
+    2781879591,
+    8954330755,
+    2781879585
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "淡路4公園",
+    "shelter_type:ja": "一時避難場所",
+    "source": "Bing,2011-4"
+  }
+},
+{
+  "type": "way",
+  "id": 804286902,
+  "timestamp": "2020-05-15T14:00:41Z",
+  "version": 1,
+  "changeset": 85265845,
+  "user": "Ayami-X",
+  "uid": 11107187,
+  "nodes": [
+    2180934577,
+    2180934578,
+    2180934581,
+    2180934583,
+    2180934580,
+    2180934585,
+    7523008732,
+    7523008744,
+    2180934589,
+    2180934584,
+    2180934586,
+    2180934582,
+    7523008742,
+    7523008738,
+    7523008741,
+    7523008743,
+    2180934577
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1111937374,
+  "timestamp": "2024-03-17T08:57:56Z",
+  "version": 2,
+  "changeset": 148761935,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "nodes": [
+    10172841206,
+    10172841207,
+    10172841208,
+    10172841209,
+    10172841210,
+    10172841206
+  ],
+  "tags": {
+    "building": "detached",
+    "building:levels": "3",
+    "name": "HIGAYODO_BASE"
+  }
+},
+{
+  "type": "node",
+  "id": 2180934577,
+  "lat": 34.7469930,
+  "lon": 135.5419865
+},
+{
+  "type": "node",
+  "id": 2180934578,
+  "lat": 34.7471937,
+  "lon": 135.5417262
+},
+{
+  "type": "node",
+  "id": 2180934580,
+  "lat": 34.7472293,
+  "lon": 135.5416756
+},
+{
+  "type": "node",
+  "id": 2180934581,
+  "lat": 34.7472345,
+  "lon": 135.5417728
+},
+{
+  "type": "node",
+  "id": 2180934582,
+  "lat": 34.7472447,
+  "lon": 135.5422739
+},
+{
+  "type": "node",
+  "id": 2180934583,
+  "lat": 34.7472719,
+  "lon": 135.5417242
+},
+{
+  "type": "node",
+  "id": 2180934584,
+  "lat": 34.7474077,
+  "lon": 135.5419708
+},
+{
+  "type": "node",
+  "id": 2180934585,
+  "lat": 34.7474278,
+  "lon": 135.5414180
+},
+{
+  "type": "node",
+  "id": 2180934586,
+  "lat": 34.7474452,
+  "lon": 135.5420137
+},
+{
+  "type": "node",
+  "id": 2180934589,
+  "lat": 34.7476437,
+  "lon": 135.5416646
+},
+{
+  "type": "node",
+  "id": 2781879585,
+  "lat": 34.7406046,
+  "lon": 135.5146961
+},
+{
+  "type": "node",
+  "id": 2781879587,
+  "lat": 34.7405510,
+  "lon": 135.5149992
+},
+{
+  "type": "node",
+  "id": 2781879589,
+  "lat": 34.7403048,
+  "lon": 135.5150025
+},
+{
+  "type": "node",
+  "id": 2781879591,
+  "lat": 34.7403026,
+  "lon": 135.5147349
+},
+{
+  "type": "node",
+  "id": 7453591297,
+  "lat": 34.7405826,
+  "lon": 135.5148359
+},
+{
+  "type": "node",
+  "id": 7453591298,
+  "lat": 34.7405964,
+  "lon": 135.5148534
+},
+{
+  "type": "node",
+  "id": 7453591299,
+  "lat": 34.7402823,
+  "lon": 135.5147763
+},
+{
+  "type": "node",
+  "id": 7523008732,
+  "lat": 34.7474496,
+  "lon": 135.5414430
+},
+{
+  "type": "node",
+  "id": 7523008738,
+  "lat": 34.7471615,
+  "lon": 135.5421789
+},
+{
+  "type": "node",
+  "id": 7523008741,
+  "lat": 34.7470714,
+  "lon": 135.5420760
+},
+{
+  "type": "node",
+  "id": 7523008742,
+  "lat": 34.7472071,
+  "lon": 135.5422310
+},
+{
+  "type": "node",
+  "id": 7523008743,
+  "lat": 34.7470338,
+  "lon": 135.5420331
+},
+{
+  "type": "node",
+  "id": 7523008744,
+  "lat": 34.7474704,
+  "lon": 135.5414667
+},
+{
+  "type": "node",
+  "id": 8954330754,
+  "lat": 34.7402930,
+  "lon": 135.5147544
+},
+{
+  "type": "node",
+  "id": 8954330755,
+  "lat": 34.7405181,
+  "lon": 135.5147072
+},
+{
+  "type": "node",
+  "id": 10172841206,
+  "lat": 34.7465193,
+  "lon": 135.5464652
+},
+{
+  "type": "node",
+  "id": 10172841207,
+  "lat": 34.7464086,
+  "lon": 135.5464885
+},
+{
+  "type": "node",
+  "id": 10172841208,
+  "lat": 34.7463925,
+  "lon": 135.5463752
+},
+{
+  "type": "node",
+  "id": 10172841209,
+  "lat": 34.7464403,
+  "lon": 135.5462909
+},
+{
+  "type": "node",
+  "id": 10172841210,
+  "lat": 34.7464930,
+  "lon": 135.5462799
+}
+
+  ]
+}

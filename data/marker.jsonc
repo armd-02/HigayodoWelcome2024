@@ -37,7 +37,7 @@
                 "internet_cafe": "internet_cafe.svg",
                 "karaoke_box": "karaoke.svg",
                 "kindergarten": "marker-stroked.svg",
-                "language_school":"temaki_school.svg",
+                "language_school": "temaki_school.svg",
                 "library": "library.svg",
                 "nightclub": "music.svg",
                 "marketplace": "shopping-basket.svg",
@@ -93,7 +93,9 @@
                 "yes": "home.svg"
             },
             "craft": {
+                "carpenter": "anvil_and_hammer.svg",
                 "confectionery": "confectionery.svg",
+                "lighting": "bulb-light.svg",
                 "photographer": "attraction.svg"
             },
             "diplomatic": {
@@ -104,6 +106,8 @@
             },
             "office": {
                 "company": "briefcase.svg",
+                "estate_agent": "real_estate_agency.svg",
+                "foundation": "briefcase.svg",
                 "government": "town_hall.svg"
             },
             "shop": {
@@ -221,7 +225,7 @@
                 "horizontal_bar": "horizontal_bar.svg",
                 "ladder": "playground.svg",
                 "map": "compass.svg",
-                "monkey_bars":"monkey_bars.svg",
+                "monkey_bars": "monkey_bars.svg",
                 "mound": "circle-stroked.svg",
                 "playhouse": "play_structure.svg",
                 "play_sculpture": "sculpture.svg",
@@ -308,7 +312,8 @@
             },
             "leisure": {
                 "amusement_arcade": "gaming.svg",
-                "dance":"music.svg",
+                "dance": "music.svg",
+                "fitness_centre": "gym.svg",
                 "garden": "garden-centre.svg",
                 "pitch": "pitch.svg",
                 "park": "tree_and_bench.svg",

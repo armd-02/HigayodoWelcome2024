@@ -3,18 +3,17 @@
     "map": {
         "tileName": "OSMFJ", // タイル一覧は config-system.jsonc へ
         "viewCenter": [
-            135.51382,
-            34.73844
+            135.52961,
+            34.74482
         ],
         "viewPitch": 40,
-        "maxbounds": "",
-        "_maxBounds": [
+        "maxBounds": [
             [
-                135.30000,
-                34.54000
+                135.44000,
+                34.67000
             ],
             [
-                135.80000,
+                135.62000,
                 34.80000
             ]
         ],
@@ -25,13 +24,12 @@
     "view": {
         "poiZoom": {
             // アイコンの前後位置は後ろの方が手前になる
-            "stores": 19,
             "activity": 7
         },
         "poiFilter": "filter" // listTable更新時 all:全て / filter:絞り込み / "":非連動
     },
     "etc": {
-        "editMode": true, // 編集メニューの表示/非表示
+        "editMode": false, // 編集メニューの表示/非表示
         "thumbnailWidth": "240",
         "splashUrl": "./image/HigayodoWelcome2024.png"
     },
@@ -58,8 +56,8 @@
         "targetName": "activity"
     },
     "static": {
-        "mode": false,
-        "osmjson": ""
+        "mode": true,
+        "osmjson": "./data/static.json"
     },
     "wikipedia": {
         "marker": "wikipedia.svg",
@@ -100,11 +98,11 @@
         ],
         // 詳細表示のハンバーガーメニュー
         "modal": [
-            {
+            /*{
                 "glot-model": "act_add",
                 "linkto": "javascript:modal_activities.edit({form:'Playgrounds'})",
                 "divider": false
-            },
+            },*/
             {
                 "glot-model": "osm_open",
                 "linkto": "javascript:winCont.osm_open(cMapMaker.open_osmid)",
@@ -118,12 +116,14 @@
         ],
         // 詳細モーダルの追加ボタン 
         "buttons": [
+            /*
             {
                 "btn_class": "btn btn-light border-secondary mr-2",
                 "code": "javascript:modal_activities.edit({form:'Welcome2024'})",
                 "icon_class": "fas fa-plus",
                 "btn_glot_name": "add_activity"
             },
+            */
             {
                 "btn_class": "btn btn-light border-secondary",
                 "code": "javascript:cMapMaker.shareURL()",
