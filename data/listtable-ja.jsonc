@@ -8,6 +8,10 @@
                     "hidden": true
                 },
                 {
+                    "id": "category",
+                    "hidden": true
+                },
+                {
                     "id": "title",
                     "name": "タイトル",
                     "width": "50%"
@@ -24,6 +28,7 @@
             ],
             "act_fields": [
                 "id",
+                "category",
                 "title",
                 "event"
             ]
