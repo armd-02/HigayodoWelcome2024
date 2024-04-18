@@ -1,20 +1,20 @@
 // Community Mapmaker User Config
 {
     "map": {
-        "tileName": "OSMFJ", // タイル一覧は config-system.jsonc へ
+        "tileName": "Kansai", // タイル一覧は config-system.jsonc へ
         "viewCenter": [
-            135.52961,
+            135.52704,
             34.74482
         ],
         "viewPitch": 40,
         "maxBounds": [
             [
-                135.44000,
-                34.67000
+                135.4805,
+                34.7209
             ],
             [
-                135.62000,
-                34.80000
+                135.5712,
+                34.7717
             ]
         ],
         "initZoom": 14.45,

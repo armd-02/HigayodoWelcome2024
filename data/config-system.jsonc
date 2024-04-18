@@ -14,8 +14,8 @@
         ]
     },
     "tile": {
-        "OSMFJ": {
-            "style": "./data/style.json"
+        "Kansai": {
+            "style": "./tiles/Higayodo-pmtiles.json"
         },
         "OSM_Standard": {
             "style": {
