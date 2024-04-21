@@ -11,8 +11,15 @@
 * Webブラウザ(PC/タブレット)、スマートフォン対応
 * Cookie未使用
 
+## ライセンス
+* HTML/CSS/JavaScript/JSON : MIT License
+* PMtiles : ODbL
+* pictureフォルダ内の画像は再配布禁止
+* image/HigayodoWelcome2024.pngは再配布禁止
+
 ## 主な更新履歴
 * 2024/03/17 初版公開
 * 2024/04/05 各種アイコンを追加
 * 2024/04/13 日付選択機能を追加
 * 2024/04/18 PMtilesを追加
+* 2024/04/21 ライセンスを追記
